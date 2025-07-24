@@ -76,10 +76,41 @@ Cada miembro del equipo debe completar su sección de rol respondiendo a las sig
 *Aquí escribe tu nombre y responde a las siguientes preguntas:*
 
 - **¿Qué hace un QA?**
-- **Técnicas y herramientas comunes**: (Ej: pruebas manuales, Selenium, JUnit)
-- **Importancia del rol** para la calidad del software
+El rol de QA se encarga de asegurar que el software funcione correctamente antes, durante y después del desarrollo. Realiza pruebas para detectar errores (bugs), verificar que las funcionalidades cumplan con los requisitos, y garantizar una experiencia de usuario fluida y libre de fallos. También participa en la planificación de pruebas automatizadas o manuales y en la documentación de errores.
+
+- **Técnicas y herramientas comunes**:
+Pruebas manuales
+
+Pruebas automatizadas (Selenium, Appium)
+
+Frameworks de testing (JUnit, TestNG, Cypress)
+
+Herramientas de gestión de incidencias (JIRA, Trello)
+
+Reportes de pruebas y documentación de fallos
+
+- **Importancia del rol**
+El QA garantiza la calidad del producto final. Su trabajo es fundamental para evitar que errores lleguen al usuario final, lo cual protege la reputación del equipo y la funcionalidad de la aplicación. Además, actúa como puente entre desarrollo y usuarios, asegurando que las funciones trabajen como se espera.
+  
 - **Cursos recomendados**
-- **Ejemplo basado en una aplicación observada**: asegurar que la función de “reproducción automática” en YouTube funcione correctamente
+  https://edutin.com/curso-de-tester
+  https://docs.github.com/en/issues/tracking-your-work-with-issues/configuring-issues/planning-and-tracking-work-for-your-  team-or-project
+  https://cadperu.com/curso/interpretacion-del-sistema-de-gestion-de-la-calidad-iso-90012015-empieza-ya
+  https://edutin.com/curso-de-gestion-de-calidad
+  
+- **Ejemplo basado en una aplicación observada**:
+En YouTube, un QA podría encargarse de verificar que la función de "autoplay" (reproducción automática) funcione correctamente, que los subtítulos se sincronicen bien con el audio, que los botones como "Me gusta" o "Suscribirse" funcionen sin errores, o que al cambiar la calidad del video no se interrumpa la reproducción.
+
+¿Cómo se complementa con los demás roles?:
+
+Trabaja con el Frontend para verificar que la interfaz se vea y funcione como se espera.
+
+Se comunica con el Backend para reportar errores en APIs, flujos de datos, o lógicas del sistema.
+
+Colabora con el desarrollador Android para probar funciones específicas del sistema operativo móvil.
+
+Ayuda al equipo a mantener altos estándares de calidad en cada fase del desarrollo.
+
 - **Complementación**: prueba lo que hacen frontend, backend y Android
 
 ---
