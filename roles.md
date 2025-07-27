@@ -10,8 +10,8 @@
 - 6 . Deyci Andrea Camargo Ramos - Desarrollador Android  
 - 7 . Vanessa Katherine Condori Espinoza - FrontEnd  
 - 8 . Aleyda Luz Quispe Hacha - FrontEnd  
-- 9 . Jose Manuel Kana Huanqque - Backend  
----
+- 9 . Jose Manuel Kana Huanqque - Backend 
+- 10. Sergio Ivan Salazar Luque - Backend
 
 ## 🔧 Introducción: ¿Qué son Git y GitHub y por qué los usamos?
 
