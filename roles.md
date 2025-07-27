@@ -36,9 +36,6 @@ Cada miembro del equipo debe completar su sección de rol respondiendo a las sig
 ---
 
 ## 🎨 Rol 1: Desarrollador Frontend
-
-*Aquí escribe tu nombre y responde a las siguientes preguntas:*
-
 ### ✅ ¿Qué hace el rol de frontend?
 - Construye la parte visual e interactiva de una página web.
 - Usa lenguajes como HTML, CSS y JavaScript.
