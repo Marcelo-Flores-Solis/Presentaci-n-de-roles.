@@ -132,7 +132,7 @@ Evalúa el rendimiento tanto del frontend como de las APIs, y verifica que la ex
 - **Ejemplo basado en una aplicación observada**: manejo de las cuentas de usuario en Spotify
 - **Complementación**: se conecta con frontend y es verificado por QA
   
-- ✅ ¿Qué hace el rol de backend?
+### ✅ ¿Qué hace el rol de backend?
 
 Diseña y mantiene la lógica del servidor.
 
@@ -148,7 +148,7 @@ Garantiza que la aplicación sea rápida, estable y pueda escalar a muchos usuar
 
 ---
 
-✅ Tecnologías y herramientas comunes:
+### ✅ Tecnologías y herramientas comunes:
 
 Lenguajes: Node.js, Java, PHP, Python, Ruby, C#.
 
@@ -162,7 +162,7 @@ Otros: REST, GraphQL, Docker, Kubernetes, Nginx.
 
 ---
 
-✅ Importancia del rol en el funcionamiento de la aplicación:
+### ✅ Importancia del rol en el funcionamiento de la aplicación:
 
 Es el corazón de la aplicación: gestiona los datos, las operaciones y la lógica de negocio.
 
@@ -174,7 +174,7 @@ Asegura la seguridad de los datos y la eficiencia del sistema.
 
 ---
 
-✅ Cursos recomendados:
+### ✅ Cursos recomendados:
 
 Desarrollo Backend con Node.js y Express (Udemy / Platzi).
 
@@ -190,13 +190,13 @@ Docker y Kubernetes para desarrolladores (Platzi / Udemy).
 
 ---
 
-✅ Ejemplo basado en una aplicación observada:
+### ✅ Ejemplo basado en una aplicación observada:
 👉 En Spotify, el backend maneja las cuentas de usuario, listas de reproducción, historial de canciones, recomendaciones y toda la lógica de la plataforma para que la app funcione de forma personalizada.
 
 
 ---
 
-✅ Complementación:
+### ✅ Complementación:
 
 El backend se conecta con el frontend para enviar y recibir datos (por ejemplo, cuando presionas “play” en Spotify).
 
