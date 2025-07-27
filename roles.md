@@ -50,13 +50,13 @@ Cada miembro del equipo debe completar su sección de rol respondiendo a las sig
 
 ---
 
-- **Tecnologías y herramientas comunes**: (Ej: HTML, CSS, JavaScript, React)
 - **¿Cómo aprender el rol FrontEnd?
 ![](https://github.com/Marcelo-Flores-Solis/Presentaci-n-de-roles./blob/main/Ruta_Frontend.png)
+
 - **Cursos recomendados** (gratuitos o de plataformas como Google, Platzi, Udemy)
 A continuación se presentan los cursos en línea recomendados para aprender el rol de Frontend.
 
-## 01. Coursera
+### 01. Coursera
 **Curso**: Otro curso de 7 meses ofrece una formación completa en desarrollo web, desde lo básico hasta técnicas avanzadas con React y gestión de proyectos en GitHub. Permite aprender a crear portafolios, enfrentarse a entrevistas y obtener un certificado que respalda la experiencia.  
 **Link**: [https://www.coursera.org/professional-certificates/meta-front-end-developer](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
