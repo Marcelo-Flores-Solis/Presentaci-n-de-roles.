@@ -11,7 +11,7 @@
 - 6. Vanessa Katherine Condori Espinoza - FrontEnd
 - 7. Aleyda Luz Quispe Hacha - FrontEnd
 - 8. Jose Manuel Kana Huanqque - Backend
-
+- 9. Sergio Ivan Salazar Luque - Backend
 ---
 
 ## 🔧 Introducción: ¿Qué son Git y GitHub y por qué los usamos?
