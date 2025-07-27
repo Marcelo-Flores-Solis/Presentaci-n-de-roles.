@@ -38,18 +38,7 @@ Cada miembro del equipo debe completar su sección de rol respondiendo a las sig
 
 *Aquí escribe tu nombre y responde a las siguientes preguntas:*
 
-### ✅ ¿Qué hace el rol de frontend?
-- Construye la parte visual e interactiva de una página web.
-- Usa lenguajes como HTML, CSS y JavaScript.
-- Convierte los diseños UI en código real, respetando el estilo y estructura.
-- Asegura que el sitio sea responsive, adaptable a todo tipo de pantalla.
-- Agrega interactividad: botones, formularios, menús, animaciones.
-- Conecta con APIs para mostrar datos dinámicos.
-- Trabaja con diseñadores, desarrolladores back-end y testers.
-- Cuida la experiencia del usuario, accesibilidad y rendimiento.
-
----
-
+- **¿Qué hace el rol de frontend?**
 - **Tecnologías y herramientas comunes**: (Ej: HTML, CSS, JavaScript, React)
 - **Importancia del rol** en el desarrollo web/móvil
 - **Cursos recomendados** (gratuitos o de plataformas como Google, Platzi, Udemy)
