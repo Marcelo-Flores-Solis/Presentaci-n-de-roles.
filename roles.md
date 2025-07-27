@@ -3,7 +3,7 @@
 ## 0) Integrantes del equipo de estudio y sus responsabilidades en el repositorio *(actualizar)*
 
 - 0. Flores Solis Marcelo Sebastian - Quality Manager
-- 1. 
+- 1. Piero Andree Zamora Aquino
 - 2. 
 - 3. 
 - 4. 
