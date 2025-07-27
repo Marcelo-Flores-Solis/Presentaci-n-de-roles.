@@ -7,6 +7,7 @@
 - 2. Gabriel Alberto Coaguila Quicaña - BackEnd
 - 3. Barbara Amira Cuba Guevara - Desarrollador Android
 - 4. Alejandro Jesús Mendoza Pantigoso - Desarrollador Android
+- 5. Deyci Andrea Camargo Ramos - Desarrollador Android 
 
 ---
 
@@ -101,6 +102,19 @@ Además, mantiene la app actualizada y compatible con nuevas versiones del siste
 - [Programación Android desde cero – Cursa.app](https://cursa.app/es/curso-gratis/programacion-android-desde-cero-cdih)
 
 ---
+### 🧠El rol de la programación en el desarrollo de Android 
+- Automatización de Tareas
+- Interacción con el Usuario (UI/UX)
+- Conexión a Internet y Consumo de APIs
+- Gestión de Datos Internos
+- Seguridad de Datos
+- Conexión con Dispositivos Externos
+- Integración de Funciones Multimedia
+- Geolocalización y Navegación 
+- Aplicaciones en Tiempo Real
+- Juegos Android 
+- Realidad Aumentada (AR) y Realidad Virtual (VR)
+- Aplicaciones Empresariales
 
 ## 🧪 Rol 4: Especialista en QA (Quality Assurance)
 
