@@ -77,8 +77,6 @@ A continuación se presentan los cursos en línea recomendados para aprender el 
 
 ## 🖥️ Rol 2: Desarrollador Backend
 
-*Aquí escribe tu nombre y responde a las siguientes preguntas:*
-
 - **¿Qué hace el rol de backend?**
 - **Tecnologías y herramientas comunes**: (Ej: Node.js, Java, PHP, bases de datos, APIs)
 - **Importancia del rol** en el funcionamiento de la aplicación
@@ -89,8 +87,6 @@ A continuación se presentan los cursos en línea recomendados para aprender el 
 ---
 
 ## 🤖 Rol 3: Desarrollador Android
-
-*Aquí escribe tu nombre y responde a las siguientes preguntas:*
 
 - **Ejemplo basado en una aplicación observada**: pantalla de chat en WhatsApp
 - **Complementación**: requiere servicios backend y revisiones de QA
