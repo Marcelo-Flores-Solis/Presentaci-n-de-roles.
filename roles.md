@@ -9,6 +9,7 @@
 - 4. Alejandro Jesús Mendoza Pantigoso - Desarrollador Android
 - 5. Deyci Andrea Camargo Ramos - Desarrollador Android  
 - 6. Vanessa Katherine Condori Espinoza - FrontEnd
+  7. Aleyda Luz Quispe Hacha - FrontEnd
 
 ---
 
