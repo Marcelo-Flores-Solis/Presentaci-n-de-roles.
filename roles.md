@@ -70,8 +70,56 @@ A continuación se presentan los cursos en línea recomendados para aprender el 
 **Curso**: La certificación en Bibliotecas de Desarrollo Front-End ayuda a mejorar habilidades en HTML, CSS, JavaScript, y Dom, además de ofrecer proyectos para construir portafolios y aplicar conocimientos en aplicaciones modernas.  
 **Link**: [https://www.coursera.org/professional-certificates/meta-front-end-developer](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
-- **Ejemplo basado en una aplicación observada**: diseño visual de la pantalla de inicio en Netflix
-- **Complementación**: trabaja en conjunto con backend y QA
+- 📺 Ejemplo basado en una aplicación observada: Diseño visual de la pantalla de inicio en Netflix
+Este ejemplo utiliza Mermaid.js para representar visualmente el flujo y diseño básico de la pantalla de inicio de Netflix, destacando su interacción con el backend y el proceso de validación por parte del equipo de QA.
+
+🎨 Diseño visual (simplificado)
+
+```mermaid
+graph TD  
+    subgraph UI [Pantalla de Inicio - UI]
+        A[Barra de navegación] --> B[Carrusel de contenido destacado]
+        B --> C[Secciones por categoría: <br/> 'Continuar viendo', 'Top 10', etc.]
+        C --> D[Miniaturas de contenido]
+        D --> E[Botón de reproducción + info]
+    end
+
+    subgraph Backend
+        F[API de autenticación] 
+        G[API de contenido personalizado]
+        H[Base de datos de usuarios]
+        I[Base de datos de contenido]
+    end
+
+    subgraph QA
+        J[Test de carga UI]
+        K[Test de rendimiento API]
+        L[Verificación de contenido mostrado]
+    end
+
+    A --> F
+    B --> G
+    G --> I
+    F --> H
+    E --> G
+
+    UI --> QA
+    Backend --> QA
+```
+
+- 🔄 Complementación con Backend y QA
+
+Frontend (UI):
+Se encarga de mostrar la estructura visual de la pantalla de inicio.
+Los elementos como el carrusel y las miniaturas se alimentan con datos dinámicos del backend.
+
+Backend:
+Gestiona autenticación del usuario, personalización de contenido según historial, y obtención de metadatos desde la base de datos.
+Expone APIs que son consumidas por la interfaz para mostrar contenido relevante.
+
+QA (Quality Assurance):
+Realiza pruebas automáticas y manuales para garantizar que los datos se muestran correctamente.
+Evalúa el rendimiento tanto del frontend como de las APIs, y verifica que la experiencia del usuario sea estable.
 
 ---
 
