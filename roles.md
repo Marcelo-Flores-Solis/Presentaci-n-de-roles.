@@ -170,32 +170,55 @@ Asegura la seguridad de los datos y la eficiencia del sistema.
 ### ✅ Cursos recomendados:
 
 -[Fundación Telefónica + Oracle/Desarrollo Backend con Java] 
+
 Este curso es una formación profesional gratuita para aprender desarrollo backend con Java, desde lo básico hasta la creación de APIs REST usando Spring Boot, con certificación oficial de Fundación Telefónica y 
+
 -Ofrece certificado oficial gratuito al completar y aprobar el curso.
+
 -Cuenta con evaluaciones automáticas y retroalimentación para seguir tu progreso.
+
 -Tiene una comunidad activa y soporte para resolver dudas durante el aprendizaje.
+
 -Es 100% online, sin costo, y puedes estudiar a tu propio ritmo desde cualquier lugar.ootcamp.com
+
 Link:
+
 (https://conectaempleo-formacion.fundaciontelefonica.com)
 
 -[Coursera]
+
 Cuando completes este Certificado profesional, podrías hacer que tu aprendizaje sea reconocido para crédito si eres admitido e inscrito en un programa de grado en línea.
+
 -Te da una certificado profecional avalado por META
+
 -Introducción al desarrollo de back-end
+
 -Programación en Python
--Control de versión
+
 -Introduccion a las bases de datos
+
 -Marco weeb con Django
+
 -APIs
-Link: (https://www.coursera.org/professional-certificates/meta-back-end-developer)
+
+Link: 
+
+(https://www.coursera.org/professional-certificates/meta-back-end-developer)
 
 -[CODECADEMY]
+
 Codecademy es una plataforma ideal para aprender backend de forma práctica e interactiva.
+
 -Ofrece rutas profesionales con teoría, ejercicios y proyectos reales.
+
 -El contenido está actualizado y cubre tecnologías modernas como Node.js y Python.
+
 -Incluye retroalimentación automática y una comunidad activa para resolver dudas.
+
 -Es una opción completa que combina práctica, claridad y recursos útiles.
+
 Link:
+
 (https://www.codecademy.com/learn/introduction-to-back-end-programming)
 
 ---
