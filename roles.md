@@ -4,7 +4,7 @@
 
 - 0. Flores Solis Marcelo Sebastian - Quality Manager
 - 1. Piero Andree Zamora Aquino
-- 2. 
+- 2. Gabriel Alberto Coaguila Quicaña - BackEnd
 - 3. 
 - 4. 
 
