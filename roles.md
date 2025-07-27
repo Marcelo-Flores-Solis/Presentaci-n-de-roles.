@@ -7,7 +7,7 @@
 - 2. Gabriel Alberto Coaguila Quicaña - BackEnd
 - 3. Barbara Amira Cuba Guevara - Desarrollador Android
 - 4. Alejandro Jesús Mendoza Pantigoso - Desarrollador Android
-- 5. Deyci Andrea Camargo Ramos - Desarrollador Android
+- 5. Deyci Andrea Camargo Ramos - Desarrollador Android  
 - 6. Vanessa Katherine Condori Espinoza - FrontEnd
 
 ---
