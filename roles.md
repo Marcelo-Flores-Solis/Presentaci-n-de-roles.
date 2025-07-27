@@ -6,7 +6,7 @@
 - 1. Piero Andree Zamora Aquino
 - 2. Gabriel Alberto Coaguila Quicaña - BackEnd
 - 3. Barbara Amira Cuba Guevara - Desarrollador Android
-- 4. 
+- 4. Alejandro Jesús Mendoza Pantigoso - Desarrollador Android
 
 ---
 
@@ -62,10 +62,26 @@ Cada miembro del equipo debe completar su sección de rol respondiendo a las sig
 
 *Aquí escribe tu nombre y responde a las siguientes preguntas:*
 
-- **¿Qué hace el rol de Android?**
-- **Lenguajes y herramientas comunes**: (Ej: Kotlin, Java, Android Studio)
 - **Ejemplo basado en una aplicación observada**: pantalla de chat en WhatsApp
 - **Complementación**: requiere servicios backend y revisiones de QA
+
+---
+
+### ✅ ¿Qué hace un desarrollador Android?
+
+La programación Android se refiere al proceso de desarrollo de aplicaciones móviles que funcionan con el sistema operativo Android.
+Implica escribir códigos, diseñar interfaces de usuario e integrar diversas funciones para crear aplicaciones útiles para los usuarios de este sistema operativo.
+
+---
+
+### 🛠️ Lenguajes y herramientas comunes:
+
+- Java: Primer lenguaje de programación compatible con Android. Gracias a su estabilidad y a su completo ecosistema de bibliotecas, sigue siendo una opción popular para muchos desarrolladores de Android.
+- Kotlin: Se ha convertido rápidamente en una alternativa principal gracias a su sintaxis concisa, segura y moderna, siendo el lenguaje recomendado por Google.
+- C++: Utilizado a través del Android NDK, se emplea para escribir aplicaciones de alto rendimiento, como juegos o software gráfico complejo.
+- XML (eXtensible Markup Language): Lenguaje de marcado que se utiliza en Android para definir la interfaz gráfica de usuario (UI) de una app.
+- Android Studio: Entorno de desarrollo oficial (IDE). 
+- ADB (Android Debug Bridge): Herramienta para depurar y conectar dispositivos.
 
 ---
 
