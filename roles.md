@@ -60,15 +60,15 @@ A continuación se presentan los cursos en línea recomendados para aprender el 
 **Curso**: Otro curso de 7 meses ofrece una formación completa en desarrollo web, desde lo básico hasta técnicas avanzadas con React y gestión de proyectos en GitHub. Permite aprender a crear portafolios, enfrentarse a entrevistas y obtener un certificado que respalda la experiencia.  
 **Link**: [https://www.coursera.org/professional-certificates/meta-front-end-developer](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
-## 02. GreatLearning
+### 02. GreatLearning
 **Curso**: Curso gratuito de Great Learning para aprender HTML. Incluye desarrollo web en 3 horas, conceptos clave como etiquetas, atributos y estructura, y finaliza con un certificado para iniciar tu carrera en frontend.  
 **Link**: [https://www.greatlearning.com/academy/learn-for-free/courses/front-end-development-html](https://www.greatlearning.com/academy/learn-for-free/courses/front-end-development-html)
 
-## 03. CareerFoundry
+### 03. CareerFoundry
 **Curso**: Este curso en línea de 2 meses enseña a diseñadores habilidades esenciales de desarrollo frontend, incluyendo programación, codificación y accesos a comunidad, preparado para potenciar tu carrera en desarrollo web y diseño UX/UI.  
 **Link**: [https://www.coursera.org/professional-certificates/meta-front-end-developer](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
-## 04. FreeCodeCamp
+### 04. FreeCodeCamp
 **Curso**: La certificación en Bibliotecas de Desarrollo Front-End ayuda a mejorar habilidades en HTML, CSS, JavaScript, y Dom, además de ofrecer proyectos para construir portafolios y aplicar conocimientos en aplicaciones modernas.  
 **Link**: [https://www.coursera.org/professional-certificates/meta-front-end-developer](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
