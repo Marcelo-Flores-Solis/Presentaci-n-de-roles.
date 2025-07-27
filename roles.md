@@ -52,6 +52,7 @@ Cada miembro del equipo debe completar su sección de rol respondiendo a las sig
 
 - **Tecnologías y herramientas comunes**: (Ej: HTML, CSS, JavaScript, React)
 - **¿Cómo aprender el rol FrontEnd?
+![](https://github.com/Marcelo-Flores-Solis/Presentaci-n-de-roles./blob/main/Ruta_Frontend.png)
 ![Ruta Frontend](imagenes/Ruta_Frontend.png)
 - **Cursos recomendados** (gratuitos o de plataformas como Google, Platzi, Udemy)
 - **Ejemplo basado en una aplicación observada**: diseño visual de la pantalla de inicio en Netflix
