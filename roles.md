@@ -124,13 +124,6 @@ Evalúa el rendimiento tanto del frontend como de las APIs, y verifica que la ex
 ---
 
 ## 🖥️ Rol 2: Desarrollador Backend
-
-- **¿Qué hace el rol de backend?**
-- **Tecnologías y herramientas comunes**: (Ej: Node.js, Java, PHP, bases de datos, APIs)
-- **Importancia del rol** en el funcionamiento de la aplicación
-- **Cursos recomendados**
-- **Ejemplo basado en una aplicación observada**: manejo de las cuentas de usuario en Spotify
-- **Complementación**: se conecta con frontend y es verificado por QA
   
 ### ✅ ¿Qué hace el rol de backend?
 
@@ -176,17 +169,11 @@ Asegura la seguridad de los datos y la eficiencia del sistema.
 
 ### ✅ Cursos recomendados:
 
-Desarrollo Backend con Node.js y Express (Udemy / Platzi).
+-[Fundación Telefónica + Oracle/Desarrollo Backend con Java] (https://conectaempleo-formacion.fundaciontelefonica.com)
 
-Java Spring Boot para backend (Coursera / Alura).
+-[Coursera](https://www.coursera.org/professional-certificates/meta-back-end-developer)
 
-Bases de datos SQL y NoSQL (Platzi / Udemy).
-
-Curso de APIs REST y GraphQL (YouTube / Udemy).
-
-Docker y Kubernetes para desarrolladores (Platzi / Udemy).
-
-
+-[CODECADEMY](https://www.codecademy.com/learn/introduction-to-back-end-programming)
 
 ---
 
