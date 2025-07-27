@@ -5,7 +5,7 @@
 - 0. Flores Solis Marcelo Sebastian - Quality Manager
 - 1. Piero Andree Zamora Aquino
 - 2. Gabriel Alberto Coaguila Quicaña - BackEnd
-- 3. 
+- 3. Barbara Amira Cuba Guevara - Desarrollador Android
 - 4. 
 
 ---
@@ -64,10 +64,25 @@ Cada miembro del equipo debe completar su sección de rol respondiendo a las sig
 
 - **¿Qué hace el rol de Android?**
 - **Lenguajes y herramientas comunes**: (Ej: Kotlin, Java, Android Studio)
-- **Importancia del rol** para aplicaciones móviles
-- **Cursos recomendados**
 - **Ejemplo basado en una aplicación observada**: pantalla de chat en WhatsApp
 - **Complementación**: requiere servicios backend y revisiones de QA
+
+---
+
+### 📌 Importancia del rol
+
+El desarrollador Android es clave para crear aplicaciones móviles funcionales, seguras y eficientes. 
+Su trabajo permite llegar a millones de usuarios, optimiza el rendimiento, garantiza una buena experiencia de usuario e integra funciones como GPS, notificaciones o pagos. 
+Además, mantiene la app actualizada y compatible con nuevas versiones del sistema.
+
+---
+
+### 📚 Cursos recomendados
+
+- [Aspectos básicos de Android con Compose – Google](https://developer.android.com/courses?hl=es-419)  
+- [Developing Android Apps with Kotlin – Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)  
+- [Android Application Development – Great Learning](https://www.mygreatlearning.com/academy/learn-for-free/courses/android-application-development)  
+- [Programación Android desde cero – Cursa.app](https://cursa.app/es/curso-gratis/programacion-android-desde-cero-cdih)
 
 ---
 
