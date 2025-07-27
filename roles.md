@@ -46,7 +46,7 @@ Cada miembro del equipo debe completar su sección de rol respondiendo a las sig
 - Agrega interactividad: botones, formularios, menús, animaciones.
 - Conecta con APIs para mostrar datos dinámicos.
 - Trabaja con diseñadores, desarrolladores back-end y testers.
-- Cuida la experiencia del usuario, accesibilidad y rendimiento.
+- Cuida la experiencia del usuario, accesibilidad y rendimiento.  
 
 ---
 
