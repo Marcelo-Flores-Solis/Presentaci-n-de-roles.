@@ -131,6 +131,77 @@ Evalúa el rendimiento tanto del frontend como de las APIs, y verifica que la ex
 - **Cursos recomendados**
 - **Ejemplo basado en una aplicación observada**: manejo de las cuentas de usuario en Spotify
 - **Complementación**: se conecta con frontend y es verificado por QA
+  
+- ✅ ¿Qué hace el rol de backend?
+
+Diseña y mantiene la lógica del servidor.
+
+Administra bases de datos y procesa la información que envía y recibe la aplicación.
+
+Crea APIs para que el frontend y otras aplicaciones puedan comunicarse con el servidor.
+
+Se encarga de la seguridad, autenticación y autorización de los usuarios.
+
+Garantiza que la aplicación sea rápida, estable y pueda escalar a muchos usuarios.
+
+
+
+---
+
+✅ Tecnologías y herramientas comunes:
+
+Lenguajes: Node.js, Java, PHP, Python, Ruby, C#.
+
+Bases de datos: MySQL, PostgreSQL, MongoDB, Redis.
+
+Frameworks: Express.js, Spring Boot, Laravel, Django, .NET.
+
+Otros: REST, GraphQL, Docker, Kubernetes, Nginx.
+
+
+
+---
+
+✅ Importancia del rol en el funcionamiento de la aplicación:
+
+Es el corazón de la aplicación: gestiona los datos, las operaciones y la lógica de negocio.
+
+Sin backend, la aplicación no podría almacenar información, autenticar usuarios ni responder a las acciones del frontend.
+
+Asegura la seguridad de los datos y la eficiencia del sistema.
+
+
+
+---
+
+✅ Cursos recomendados:
+
+Desarrollo Backend con Node.js y Express (Udemy / Platzi).
+
+Java Spring Boot para backend (Coursera / Alura).
+
+Bases de datos SQL y NoSQL (Platzi / Udemy).
+
+Curso de APIs REST y GraphQL (YouTube / Udemy).
+
+Docker y Kubernetes para desarrolladores (Platzi / Udemy).
+
+
+
+---
+
+✅ Ejemplo basado en una aplicación observada:
+👉 En Spotify, el backend maneja las cuentas de usuario, listas de reproducción, historial de canciones, recomendaciones y toda la lógica de la plataforma para que la app funcione de forma personalizada.
+
+
+---
+
+✅ Complementación:
+
+El backend se conecta con el frontend para enviar y recibir datos (por ejemplo, cuando presionas “play” en Spotify).
+
+También es verificado por QA para asegurar que todas las funciones trabajen bien y no haya errores.
+
 
 ---
 
