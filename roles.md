@@ -10,6 +10,7 @@
 - 5. Deyci Andrea Camargo Ramos - Desarrollador Android  
 - 6. Vanessa Katherine Condori Espinoza - FrontEnd
 - 7. Aleyda Luz Quispe Hacha - FrontEnd
+- 8. Jose Manuel Kana Huanqque - Backend
 
 ---
 
