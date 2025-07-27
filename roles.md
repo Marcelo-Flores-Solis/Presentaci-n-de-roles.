@@ -1,17 +1,16 @@
 # 📌 Presentación de Roles del Proyecto
 
-## 0) Integrantes del equipo de estudio y sus responsabilidades en el repositorio *(actualizar)*
+## 0) Integrantes del equipo de estudio y sus responsabilidades en el repositorio (*actualizar*)
 
-- 0. Flores Solis Marcelo Sebastian - Quality Manager
-- 1. Piero Andree Zamora Aquino - FrontEnd
-- 2. Gabriel Alberto Coaguila Quicaña - BackEnd
-- 3. Barbara Amira Cuba Guevara - Desarrollador Android
-- 4. Alejandro Jesús Mendoza Pantigoso - Desarrollador Android
-- 5. Deyci Andrea Camargo Ramos - Desarrollador Android  
-- 6. Vanessa Katherine Condori Espinoza - FrontEnd
-- 7. Aleyda Luz Quispe Hacha - FrontEnd
-- 8. Jose Manuel Kana Huanqque - Backend
-- 9. Sergio Ivan Salazar Luque - Backend
+- 1 . Flores Solis Marcelo Sebastian - Quality Manager  
+- 2 . Piero Andree Zamora Aquino - FrontEnd  
+- 3 . Gabriel Alberto Coaguila Quicaña - BackEnd  
+- 4 . Barbara Amira Cuba Guevara - Desarrollador Android  
+- 5 . Alejandro Jesús Mendoza Pantigoso - Desarrollador Android  
+- 6 . Deyci Andrea Camargo Ramos - Desarrollador Android  
+- 7 . Vanessa Katherine Condori Espinoza - FrontEnd  
+- 8 . Aleyda Luz Quispe Hacha - FrontEnd  
+- 9 . Jose Manuel Kana Huanqque - Backend  
 ---
 
 ## 🔧 Introducción: ¿Qué son Git y GitHub y por qué los usamos?
