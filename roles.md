@@ -53,8 +53,25 @@ Cada miembro del equipo debe completar su sección de rol respondiendo a las sig
 - **Tecnologías y herramientas comunes**: (Ej: HTML, CSS, JavaScript, React)
 - **¿Cómo aprender el rol FrontEnd?
 ![](https://github.com/Marcelo-Flores-Solis/Presentaci-n-de-roles./blob/main/Ruta_Frontend.png)
-![Ruta Frontend](imagenes/Ruta_Frontend.png)
 - **Cursos recomendados** (gratuitos o de plataformas como Google, Platzi, Udemy)
+A continuación se presentan los cursos en línea recomendados para aprender el rol de Frontend.
+
+## 01. Coursera
+**Curso**: Otro curso de 7 meses ofrece una formación completa en desarrollo web, desde lo básico hasta técnicas avanzadas con React y gestión de proyectos en GitHub. Permite aprender a crear portafolios, enfrentarse a entrevistas y obtener un certificado que respalda la experiencia.  
+**Link**: [https://www.coursera.org/professional-certificates/meta-front-end-developer](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+
+## 02. GreatLearning
+**Curso**: Curso gratuito de Great Learning para aprender HTML. Incluye desarrollo web en 3 horas, conceptos clave como etiquetas, atributos y estructura, y finaliza con un certificado para iniciar tu carrera en frontend.  
+**Link**: [https://www.greatlearning.com/academy/learn-for-free/courses/front-end-development-html](https://www.greatlearning.com/academy/learn-for-free/courses/front-end-development-html)
+
+## 03. CareerFoundry
+**Curso**: Este curso en línea de 2 meses enseña a diseñadores habilidades esenciales de desarrollo frontend, incluyendo programación, codificación y accesos a comunidad, preparado para potenciar tu carrera en desarrollo web y diseño UX/UI.  
+**Link**: [https://www.coursera.org/professional-certificates/meta-front-end-developer](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+
+## 04. FreeCodeCamp
+**Curso**: La certificación en Bibliotecas de Desarrollo Front-End ayuda a mejorar habilidades en HTML, CSS, JavaScript, y Dom, además de ofrecer proyectos para construir portafolios y aplicar conocimientos en aplicaciones modernas.  
+**Link**: [https://www.coursera.org/professional-certificates/meta-front-end-developer](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+
 - **Ejemplo basado en una aplicación observada**: diseño visual de la pantalla de inicio en Netflix
 - **Complementación**: trabaja en conjunto con backend y QA
 
