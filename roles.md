@@ -171,7 +171,7 @@ Asegura la seguridad de los datos y la eficiencia del sistema.
 
 -[Fundación Telefónica + Oracle/Desarrollo Backend con Java] 
 
-Este curso es una formación profesional gratuita para aprender desarrollo backend con Java, desde lo básico hasta la creación de APIs REST usando Spring Boot, con certificación oficial de Fundación Telefónica y 
+Este curso es una formación profesional gratuita para aprender desarrollo backend con Java, desde lo básico hasta la creación de APIs REST usando Spring Boot, con certificación oficial de Fundación Telefónica.
 
 -Ofrece certificado oficial gratuito al completar y aprobar el curso.
 
