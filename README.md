@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[Presentación de Roles del Proyecto]
 
@@ -50,3 +51,4 @@ flowchart TD
     R4 -->|Testea| R3
 
     H -->|Control y versión de código| Roles_Técnicos
+```
