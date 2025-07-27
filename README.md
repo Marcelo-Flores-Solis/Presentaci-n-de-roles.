@@ -10,7 +10,7 @@ flowchart TD
         A6[Deyci Camargo Android]
         A7[Vanessa Condori FrontEnd]
         A8[Aleyda Quispe FrontEnd]
-        A9[Jose Manuel Kana Backend]
+        A9[Jose Kana Backend]
     end
 
     subgraph Herramientas
