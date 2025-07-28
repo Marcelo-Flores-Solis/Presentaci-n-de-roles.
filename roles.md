@@ -12,6 +12,7 @@
 - 8 . Aleyda Luz Quispe Hacha - FrontEnd  
 - 9 . Jose Manuel Kana Huanqque - Backend 
 - 10. Sergio Ivan Salazar Luque - Backend
+  11. kevin Aldair Solis Florez-Quality Manager
 
 ## 🔧 Introducción: ¿Qué son Git y GitHub y por qué los usamos?
 
@@ -359,7 +360,7 @@ En **YouTube**, un QA podría encargarse de verificar que:
 
 ---
 
-## 🧩 Conclusión
+## 🧩 comclucion 
 
 Este documento forma parte de un ejercicio práctico para aplicar Git y GitHub en una actividad colaborativa, y al mismo tiempo aprender sobre los principales roles técnicos en el desarrollo web y móvil.
 
