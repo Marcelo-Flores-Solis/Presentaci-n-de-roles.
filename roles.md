@@ -11,8 +11,8 @@
 - 7 . Vanessa Katherine Condori Espinoza - FrontEnd  
 - 8 . Aleyda Luz Quispe Hacha - FrontEnd  
 - 9 . Jose Manuel Kana Huanqque - Backend 
-- 10. Sergio Ivan Salazar Luque - Backend
-  11. kevin Aldair Solis Florez-Quality Manager
+- 10 . Sergio Ivan Salazar Luque - Backend
+- 11 . kevin Aldair Solis Florez-Quality Manager
 
 ## 🔧 Introducción: ¿Qué son Git y GitHub y por qué los usamos?
 
